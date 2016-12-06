@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-borker-service",
+  "version": "1.0.0",
+  "description": "This is a node.js project which implements mqtt broker functionality and rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Gao <patrickgao0922@gmail.com>",
+  "license": "ISC"
+}
